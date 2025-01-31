@@ -1,0 +1,8 @@
+django==4.2.8
+gunicorn==21.2.0
+whitenoise==6.6.0
+python-dotenv==1.0.1
+django-admin-corporate
+celery==5.3.4
+redis==5.0.1
+django-dynamic-api==1.0.4
